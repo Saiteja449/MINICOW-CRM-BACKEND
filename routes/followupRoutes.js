@@ -1,6 +1,6 @@
 import express from "express";
 import { getFollowups, createFollowup, updateFollowup } from "../controllers/followupController.js";
-import { runFollowupCheck } from "../cron/followupCron.js";
+// import { runFollowupCheck } from "../cron/followupCron.js";
 
 const router = express.Router();
 
@@ -10,7 +10,7 @@ router.route("/:id").put(updateFollowup);
 router.post("/trigger-cron", async (req, res) => {
   try {
     console.log("[MANUAL] Triggering automated follow-up check...");
-    runFollowupCheck();
+    // runFollowupCheck();
 
     res.json({ message: "Automated follow-up check triggered successfully!" });
   } catch (error) {
