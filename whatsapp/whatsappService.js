@@ -584,10 +584,10 @@ const handleIncomingOrOutgoingMessage = async (msg, sessionId, fromMe) => {
     );
 
     // 6. Asynchronously trigger AI agent response with 4-second debounce
-    if (!isFromMe && lead.aiEnabled) {
-      console.log(`[DEBUG] Queueing AI auto-reply for lead ID: ${lead._id}`);
-      triggerAIDebounced(lead, remoteJid, textContent, sessionId);
-    }
+    // if (!isFromMe && lead.aiEnabled) {
+    //   console.log(`[DEBUG] Queueing AI auto-reply for lead ID: ${lead._id}`);
+    //   triggerAIDebounced(lead, remoteJid, textContent, sessionId);
+    // }
   } catch (error) {
     console.error(
       "Error processing incoming/outgoing WhatsApp message:",
