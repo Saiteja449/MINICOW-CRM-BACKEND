@@ -10,10 +10,10 @@ const run = async () => {
     await mongoose.connect(process.env.MONGODB_URI);
     console.log("Connected to MongoDB");
 
-    const email = "info@petsfolio.com";
+    const email = "divyadigital.infasta@gmail.com";
     const password = "123456";
     const role = "sales manager";
-    const name = "Sales Manager";
+    const name = "Divya";
 
     const existing = await User.findOne({ email });
     if (existing) {
@@ -32,12 +32,12 @@ const run = async () => {
         email,
         password: hashedPassword,
         role,
-        name
+        name,
       });
       await newUser.save();
       console.log("User created successfully");
     }
-    
+
     mongoose.disconnect();
   } catch (error) {
     console.error(error);
