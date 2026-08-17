@@ -23,6 +23,7 @@ const leadSchema = new mongoose.Schema(
         "Call",
         "Manual Entry",
         "Mobile App",
+        "Petsfolio CRM",
       ],
       default: "Manual Entry",
     },
