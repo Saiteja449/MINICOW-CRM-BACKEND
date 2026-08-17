@@ -1,0 +1,562 @@
+[
+  {
+    "name": "korlapati pooja",
+    "phone": "8096639877",
+    "city": "Hyderabad",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: No Responce",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Rudraksh Salaria",
+    "phone": "9193929717",
+    "city": "UP",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared photos",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Surendra jhawar",
+    "phone": "9121905375",
+    "city": "Hyderabad",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared Photos",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Digvijay",
+    "phone": "9555626111",
+    "city": "Delhi",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared Photos",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Rahul Kumar",
+    "phone": "7781956231",
+    "city": "Jamshedpur",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: No Responce",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Ganesh Hariharan",
+    "phone": "8105271625",
+    "city": "Bangalore",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: No Responce",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Santanu Mishra",
+    "phone": "9064379961",
+    "city": "Kharagpur",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: No Responce",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Sankaranarayanan Tyaggarajan",
+    "phone": "8056055261",
+    "city": "Kanchipuram",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared Photos",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Sachin yadav",
+    "phone": "9369111013",
+    "city": "Sultanpur",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: No incomng",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Chandrakala V",
+    "phone": "6361399652",
+    "city": "Kgf",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: busy",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "VIKRAM JANJUA",
+    "phone": "9815600787",
+    "city": "Jalandhar",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: After decided they will call back , shared photos",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "kumbh",
+    "phone": "8521403360",
+    "city": "khoribari rampur up",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Busy, Busy",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "SWADHIN KUMAR PANDA",
+    "phone": "9968436090",
+    "city": "Newdelhi",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared Photos",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "DALEEP HARCHANDRAI",
+    "phone": "9821038257",
+    "city": "KHANDALA",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared Photos",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "rohit",
+    "phone": "8119055860",
+    "city": "Tripura",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared photos",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Muskan",
+    "phone": "9905056297",
+    "city": "Jamui Bihar",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Call decline",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Aditya",
+    "phone": "9769676490",
+    "city": "Vrindavan",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Not intrerested",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Poonam Jagdish Tiwari",
+    "phone": "9307983843",
+    "city": "Pune",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Call decline",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Anushka singh",
+    "phone": "7452099983",
+    "city": "Raipur",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Call decline",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Shipra -",
+    "phone": "8853002554",
+    "city": "Lucknow",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: No Responce",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Praveen",
+    "phone": "9999222350",
+    "city": "Laxmi nagar delhi",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: NOT interested",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Rithu kumari",
+    "phone": "9848275596",
+    "city": "Hyderabad",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: NOT interested",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Gaurav Pathak",
+    "phone": "9824730422",
+    "city": "Gujarat",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: No responce",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Bharat",
+    "phone": "9820016002",
+    "city": "Mumbai",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: shared photos",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Dashrath singh",
+    "phone": "9411866742",
+    "city": "Up",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: shared photos",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Darshit patel",
+    "phone": "7698741067",
+    "city": "Rajkot,gujrat",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Not interested",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "9413685400",
+    "city": "Jaipur, Rajasthan",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: No responce",
+    "joinedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "8009919706",
+    "city": "UP",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Call back",
+    "joinedAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "name": "Om jaiswal",
+    "phone": "8420096234",
+    "city": "Howrah salkia",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: No responce",
+    "joinedAt": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "8360419558",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: not connecting",
+    "joinedAt": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "name": "Nitesh",
+    "phone": "7386541722",
+    "city": "Puranapul",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared photos and app link",
+    "joinedAt": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "1727826344",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Not connecting",
+    "joinedAt": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "8000140035",
+    "city": "Gujarat",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared photos and app link",
+    "joinedAt": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "name": "Prashanth",
+    "phone": "7795140587",
+    "city": "delhi",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: no responce",
+    "joinedAt": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "9999259507",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared photos and app link",
+    "joinedAt": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "8880711111",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: no responce",
+    "joinedAt": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "9975724267",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared photos and app link",
+    "joinedAt": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "name": "Shekar prasad",
+    "phone": "9939625111",
+    "city": "Bihar",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared photos and app link",
+    "joinedAt": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "name": "Pranjal",
+    "phone": "8176870451",
+    "city": "Up",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared photos and app link",
+    "joinedAt": "2026-05-29T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "9643831978",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: switch off",
+    "joinedAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "name": "Santosh",
+    "phone": "9845468291",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared photos and app link",
+    "joinedAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "7349308206",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "No message provided",
+    "joinedAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "6382944843",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Switch off",
+    "joinedAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "6205717998",
+    "city": "Uttarpradesh",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared photos and app link",
+    "joinedAt": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "8770138305",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: No Responce",
+    "joinedAt": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "8951765751",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared photos and app link",
+    "joinedAt": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "9024302853",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: No Responce",
+    "joinedAt": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "8247784742",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: not connecting",
+    "joinedAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "7909430791",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: no incommig",
+    "joinedAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "9651660348",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: switch off",
+    "joinedAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "9415862955",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: no responce",
+    "joinedAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "name": "Kapil",
+    "phone": "9425305001",
+    "city": "Madhya pradesh",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared photos app link they want 7 to 8 cows",
+    "joinedAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "8512814748",
+    "city": "Delhi",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared photos and app link",
+    "joinedAt": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "name": "Unknown",
+    "phone": "7710711219",
+    "city": "",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Not Interested",
+    "joinedAt": "2026-06-17T00:00:00.000Z"
+  },
+  {
+    "name": "Ashwini",
+    "phone": "9284315001",
+    "city": "Pune",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared photos and app link",
+    "joinedAt": "2026-06-17T00:00:00.000Z"
+  },
+  {
+    "name": "Nikhil Chowdary",
+    "phone": "9999999027",
+    "city": "Delhi",
+    "service": "Miniature Cow Sales",
+    "source": "Manual Entry",
+    "isOldLead": true,
+    "notes": "Sai: Shared photos and app link",
+    "joinedAt": "2026-06-19T00:00:00.000Z"
+  }
+]
