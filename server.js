@@ -16,6 +16,7 @@ import metaRoutes from "./routes/metaRoutes.js";
 import followupRoutes from "./routes/followupRoutes.js";
 import analyticsRoutes from "./routes/analyticsRoutes.js";
 import targetRoutes from "./routes/targetRoutes.js";
+import mobileAppRoutes from "./routes/mobileAppRoutes.js";
 
 // Socket & WhatsApp Imports
 import { initSocket } from "./socket/socket.js";
@@ -68,6 +69,7 @@ app.use("/api/meta", metaRoutes);
 app.use("/api/followups", followupRoutes);
 app.use("/api/analytics", analyticsRoutes);
 app.use("/api/targets", targetRoutes);
+app.use("/api/mobile-app", mobileAppRoutes);
 
 // Base route
 app.get("/", (req, res) => {

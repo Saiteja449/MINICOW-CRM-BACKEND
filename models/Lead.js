@@ -22,6 +22,7 @@ const leadSchema = new mongoose.Schema(
         "Website Form",
         "Call",
         "Manual Entry",
+        "Mobile App",
       ],
       default: "Manual Entry",
     },
